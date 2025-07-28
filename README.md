@@ -16,7 +16,7 @@ This is an interactive chatbot built using Meta's **LLaMA 3 (70B)** language mod
 
 ## 🖼️ Interface Preview
 
-![Streamlit Chat UI](screenshots/chat_ui.png)  
+![Streamlit Chat UI](screenshots/screenshot.png)  
 > _Screenshot of the chatbot interface (Replace with your actual image)_
 
 ---
